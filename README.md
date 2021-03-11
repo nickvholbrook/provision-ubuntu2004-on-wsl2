@@ -18,7 +18,7 @@ Intended to be re-runnable (idempotent) to maintain and update when required.
 
 ### Install passwd if absent
 
-1. `sudo apt install --yet passwd`
+1. `sudo apt install --yes passwd (included in the Ansible Playbook`
 
 ### Configure Python & pipenv
 
