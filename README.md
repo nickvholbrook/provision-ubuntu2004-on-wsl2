@@ -14,6 +14,8 @@ Intended to be re-runnable (idempotent) to maintain and update when required.
 1. WSL 2
 1. Ubuntu 20.04 installed via Windows Store.
 1. The standard Unix password manager: https://www.passwordstore.org/
+1. gpg-id - generate via the command: gpg --full-generate-key
+1. Register gpg-id in passwd.  pass init gpg-id
 
 
 ### Install passwd if absent
