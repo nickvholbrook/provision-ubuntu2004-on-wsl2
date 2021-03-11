@@ -30,6 +30,7 @@
         state: latest
         name:
           - awscli
+          - passwd
           - dos2unix
           - gnupg
           - golang
