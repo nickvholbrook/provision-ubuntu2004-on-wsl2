@@ -13,6 +13,8 @@ Intended to be re-runnable (idempotent) to maintain and update when required.
 1. Windows 10.
 1. WSL 2
 1. Ubuntu 20.04 installed via Windows Store.
+1. The standard Unix password manager: https://www.passwordstore.org/
+1. `sudo apt install --yet passwd
 
 ### Configure Python & pipenv
 
